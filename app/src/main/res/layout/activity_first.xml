@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstActivity"
+    android:background="@drawable/redrocks"
+    android:id="@+id/backgroundImage">
+
+    <Button
+        android:id="@+id/beginningButton"
+        android:layout_width="192dp"
+        android:layout_height="73dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/firstButtonText"
+        android:textSize="16sp"
+        android:onClick="goToSearch"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="219dp" />
+
+</RelativeLayout>
