@@ -3,7 +3,7 @@ A simple Android project for finding trails in Flagstaff, Arizona
 
 ## Developers:
 * Van Steinbrenner - [Suttungr](https://github.com/Suttungr)
-* Jordan Wright
+* Jordan Wright - [jaw566](https://github.com/jaw566)
 * Erich Renz
 * Tyler Miller - [tam425](https://github.com/tam425)
 
