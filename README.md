@@ -12,6 +12,11 @@ The main idea of the TrailLife application is to bring users the knowledge of lo
 a relatively simple Android app that finds trails for target users based on search criteria and shows the results in a list. There is also 
 Google Maps API integration with this project.
 
+## Dev Notes
+All developers should have Android Studio installed on their local machines and fork this repo so that all developers can have access
+and develop the project on their local machines.
+* [Download Android Studio here](https://developer.android.com/studio/)
+
 ### Misc.
 This is a team based project at Northern Arizona University for the CS 386 class. Only the users and developers listed above are allowed 
 to contribute the project.
