@@ -2,10 +2,10 @@
 A simple Android project for finding trails in Flagstaff, Arizona
 
 ## Developers:
-* Van Steinbrenner 
+* Van Steinbrenner - [Suttungr](https://github.com/Suttungr)
 * Jordan Wright
 * Erich Renz
-* Tyler Miller
+* Tyler Miller - [tam425](https://github.com/tam425)
 
 ## Purpose 
 The main idea of the TrailLife application is to bring users the knowledge of local trails in the city of Flagstaff, Arizona. This is 
